@@ -1,1 +1,1 @@
-# Principios-de-dise-o
+# Principios-de-diseño
